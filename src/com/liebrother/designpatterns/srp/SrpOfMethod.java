@@ -53,6 +53,9 @@ class User {
  * 错误的示范
  */
 
+/**
+ * 操作类型
+ */
 enum OprType {
     /**
      * 更新密码
